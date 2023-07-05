@@ -17,5 +17,5 @@
   ┣ 📂term_project
   ┃ ┣ 📜eda.ipynb
   ┃ ┣ 📜model.ipynb
-  ┃ ┗ 📜shap.ipynb
+  ┗ ┗ 📜shap.ipynb
  ```
