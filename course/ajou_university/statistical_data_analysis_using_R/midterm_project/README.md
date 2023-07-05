@@ -8,11 +8,11 @@
 
 청원 게시글 데이터와 텍스트 분석시 사용된 데이터들을 압축해 놓았습니다.
 
-| [data.zip](https://github.com/choi-jiwoo/course-works/tree/master/course/ajou_university/statistical_data_analysis_using_R/midterm_project/data)
+> [data.zip](https://github.com/choi-jiwoo/course-works/tree/master/course/ajou_university/statistical_data_analysis_using_R/midterm_project/data)
 
 ### 2019/4/30~2021/1/20 국민 청원 게시글
 
-| `petition_data.csv`
+> `petition_data.csv`
 
 | Header        | Definition    |
 | :------------ | ------------- |
