@@ -1,9 +1,0 @@
-/venv
-/data
-**/__pycache__
-/static
-.DS_Store
-.env
-cloud_sql_proxy
-db.sqlite3
-*.conf
