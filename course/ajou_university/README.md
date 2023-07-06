@@ -8,10 +8,5 @@
  ┣ 📂midterm_project
  ┃ ┗ ... (+6 Files)
  ┣ 📂final_project
- ┃ ┗ ... (+11 Files)
-📂business_analytics_capstone_design (EBZ3311: 비즈니스 애널리틱스-캡스톤디자인)
- ┣ 📂frontend
- ┃ ┗ ... (+50 Files)
- ┣ 📂backend
- ┗ ┗ ... (+28 Files)
+ ┗ ┗ ... (+11 Files)
  ```
