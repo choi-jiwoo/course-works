@@ -13,6 +13,13 @@
   ┃ ┣ 📜model_25um.ipynb
   ┃ ┗ 📜model_80um.ipynb
  📂deep_learning_1 (IIE7721: 딥러닝이론및응용)
+  ┣ 📂project
+  ┃ ┣ 📜attach_background.ipynb
+  ┃ ┣ 📜crop_pattern.ipynb
+  ┃ ┣ 📜datasetsplit.ipynb
+  ┃ ┣ 📜model.ipynb
+  ┃ ┣ 📜preprocessing.ipynb
+  ┃ ┗ 📄semimg.py
  📂game_theory (IIE7583: 게임이론개론)
   ┣ 📂term_project
   ┃ ┣ 📜eda.ipynb
