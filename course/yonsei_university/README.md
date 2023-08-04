@@ -12,6 +12,10 @@
   ┃ ┣ 📜data_preprocessing.ipynb
   ┃ ┣ 📜model_25um.ipynb
   ┃ ┗ 📜model_80um.ipynb
+  ┣ 📂midterm
+  ┃ ┣ 📜eda.ipynb
+  ┃ ┣ 📜data_preprocessing.ipynb
+  ┃ ┗ 📜model.ipynb
  📂deep_learning_1 (IIE7721: 딥러닝이론및응용)
   ┣ 📂project
   ┃ ┣ 📜attach_background.ipynb
