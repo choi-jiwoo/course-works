@@ -8,24 +8,24 @@ In the project, our team narrowed the region to Jejudo since we saw negative eff
 
 ### • Landing Page
 
-![home](https://github.com/choi-jiwoo/capstone-design/assets/47313851/0a240997-d081-41a1-b109-9911d7d6bcda)
+![home](https://github.com/user-attachments/assets/ed5fb26e-a943-4463-b1b4-705388f03280)
 
 ### • About
 
-![about](https://github.com/choi-jiwoo/capstone-design/assets/47313851/70b78cb6-41cb-4d48-b883-a74091400a75)
+![about](https://github.com/user-attachments/assets/b31d88a9-64a3-4ebc-90f0-9a7e7d279d2f)
 
 ### • Search
 
-![search](https://github.com/choi-jiwoo/capstone-design/assets/47313851/fe1e6980-305b-4ff9-bbba-8feb09ca861d)
+![search](https://github.com/user-attachments/assets/58bc5556-7ab1-43e9-b1d8-1c644573c9ce)
 
 ### • Plogging
 
-![plogging](https://github.com/choi-jiwoo/capstone-design/assets/47313851/77893291-0058-4b11-9ce0-6b61d0df2d03)
+![plogging](https://github.com/user-attachments/assets/6795ad0f-6cba-4fa8-b957-bd3a4afe317a)
 
 ### • Stay
 
-![stay](https://github.com/choi-jiwoo/capstone-design/assets/47313851/67948df7-f334-4b27-8822-01252fbe6d5e)
+![stay](https://github.com/user-attachments/assets/076fd2c8-785e-463b-84c0-bc75497dbf83)
 
 ### • Django
 
-![django](https://github.com/choi-jiwoo/capstone-design/assets/47313851/65b94ea5-04f3-4483-a289-a06584b735f3)
+![django](https://github.com/user-attachments/assets/92dd6277-9c8f-41c3-8552-3273721c16bd)
